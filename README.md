@@ -1,4 +1,4 @@
-# zag-standalone
+## zag-standalone
 
 If you are running [Zag](http://voxer.github.io/zag/) with production load
 you'll want to distribute it across multiple services, but for just getting
