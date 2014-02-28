@@ -1,0 +1,25 @@
+{
+  "name": "zag-standalone",
+  "version": "0.0.0",
+  "description": "zag metrics example server",
+  "main": "index.js",
+  "bin": {
+    "start-zag": "bin/start-zag.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sentientwaffle/zag-standalone.git"
+  },
+  "homepage": "https://github.com/sentientwaffle/zag-standalone",
+  "keywords": [
+    "zag",
+    "metrics"
+  ],
+  "author": "sentientwaffle",
+  "license": "MIT",
+  "dependencies": {
+    "zag": "~0.0.0",
+    "zag-daemon": "~0.0.0",
+    "zag-backend-pg": "~0.0.0"
+  }
+}
