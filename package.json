@@ -18,8 +18,8 @@
   "author": "sentientwaffle",
   "license": "MIT",
   "dependencies": {
-    "zag": "~0.0.0",
+    "zag": "~0.0.4",
     "zag-daemon": "~0.0.0",
-    "zag-backend-pg": "~0.0.0"
+    "zag-backend-leveldb": "~0.0.0"
   }
 }
