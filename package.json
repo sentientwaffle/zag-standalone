@@ -1,6 +1,6 @@
 {
   "name": "zag-standalone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "zag metrics example server",
   "main": "index.js",
   "bin": {
